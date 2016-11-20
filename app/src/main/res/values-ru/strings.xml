@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Косякометр</string>
+    <string name="edit_message">Укажите имя человека</string>
+    <string name="button_send">Измерить</string>
+</resources>
