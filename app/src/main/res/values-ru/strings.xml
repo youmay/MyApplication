@@ -3,4 +3,5 @@
     <string name="app_name">Косякометр</string>
     <string name="edit_message">Укажите имя человека</string>
     <string name="button_send">Измерить</string>
+    <string name="kosyak_1">Все очень плохо</string>
 </resources>
